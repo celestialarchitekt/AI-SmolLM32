@@ -1,2 +1,11 @@
-# AI-SmolLM32
-SmolLM32-135 model 
+# AI-SmolLM2-135 Model
+
+## Model Overview
+
+
+
+
+
+
+
+ 
