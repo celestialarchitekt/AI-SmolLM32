@@ -8,7 +8,7 @@ It generates content in English and is trained on 2 trillion tokens.
 - Fine Tuning code: https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk
 
 
-## Architecture & Parameters
+## Parameters
 ```
 Architecture Type: Decoder only
 Precision: bfloat16
@@ -22,7 +22,8 @@ Activation Function: SiLU
 Norm : RMSNorm
 ```
 
-
+## Architecture Diagram (Decoder Only) 
+![SmolLM2 Architecture](SmolLM2_decoder.png)
 
 
  
