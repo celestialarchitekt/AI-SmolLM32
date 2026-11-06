@@ -25,5 +25,7 @@ Norm                 : RMSNorm
 ## Architecture Diagram (Decoder Only) 
 ![SmolLM2 Architecture](SmolLM2_decoder.png)
 
+## Architecture Description
+
 
  
