@@ -7,6 +7,7 @@ It includes cli tools and llama-server (an lightweight HTTP server with an OpenA
 ## Setting up llama.cpp
 
 The setup is made on the Raspi5 running Linux Kali (64bit).
+
 ** * Installing Build Tools and Curl
 ```
 sudo apt update && sudo apt install -y git cmake build-essential curl
