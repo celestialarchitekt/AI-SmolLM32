@@ -1,5 +1,3 @@
-# AI-SmolLM2-135 Model
-
 ## Model Overview
 
 SmolLM2 is a compact language model, available in 3 sizes, 135M, 360M and 1.7B parameters.
@@ -26,9 +24,6 @@ Norm                 : RMSNorm
 ![SmolLM2 Architecture](SmolLM2_decoder.png)
 
 ## Architecture Description
-## Architecture Description
-
-
 
 SmolLM2 (specifically the 135M configuration shown) uses a decoder-only Transformer architecture with a hidden size (d_model) of 576, a vocabulary size of 49,152, and 30 stacked decoder blocks (x 30).
 
